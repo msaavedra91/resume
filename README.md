@@ -1,2 +1,1 @@
-# resume
-Miguel's resume
+# Miguel's resume
